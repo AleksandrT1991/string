@@ -16,8 +16,8 @@ public class Main {
 
 //    // задание 3
         System.out.println();
-        String s = fullName.replace('ё', 'е');
-        System.out.println(s);
+        String g = fullName.replace('ё', 'е');
+        System.out.println(g);
 
     }
 }
